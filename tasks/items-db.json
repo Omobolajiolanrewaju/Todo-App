@@ -1,0 +1,4 @@
+[
+    { "name": "controller", "price": "$20", "size": "s", "id": 1 },
+    { "name": "Dell-Monitor", "price": "$250", "size": "m", "id": 2 }
+  ]
